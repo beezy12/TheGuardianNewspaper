@@ -1,0 +1,20 @@
+{
+  "name": "TheGuardianNewspaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beezy12/TheGuardianNewspaper.git"
+  },
+  "keywords": [],
+  "author": "Brian Stumbaugh <brian.stumbaugh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beezy12/TheGuardianNewspaper/issues"
+  },
+  "homepage": "https://github.com/beezy12/TheGuardianNewspaper#readme"
+}
